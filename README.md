@@ -167,7 +167,6 @@ npx tsc --noEmit
 ## License
 
 MIT License
-
 ---
 
-Built by Girish Lade — https://ladestack.in
+**Built by [Girish Lade](https://ladestack.in)** — part of the [LadeStack](https://ladestack.in) collection of projects.
